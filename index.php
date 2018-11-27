@@ -5,7 +5,7 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-
+//DJ+7 FAILED TEST
 }
 // delete condition
 
